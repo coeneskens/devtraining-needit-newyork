@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_what_needed</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-05-20 09:36:11</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>432b7210db561b008264f70fbf9619d0</instance_id>
+        <instance_name>dev59796</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_what_needed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_what_needed</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-05-20 09:36:11</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-429457270</payload_hash>
+        <record_name>x_58872_needit_needit.u_what_needed</record_name>
+        <reverted_from/>
+        <source>70705150dbf0101002ff1fc7689619a3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>coen.eskens</sys_created_by>
+        <sys_created_on>2020-05-20 09:36:11</sys_created_on>
+        <sys_id>1d44ee4fdb70101002ff1fc76896192d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1723170bb690000001</sys_recorded_at>
+        <sys_updated_by>coen.eskens</sys_updated_by>
+        <sys_updated_on>2020-05-20 09:36:11</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>5544ee4f0c701010328ec196bcd7a82d</update_guid>
+        <update_guid_history>5544ee4f0c701010328ec196bcd7a82d:-429457270,1944ee4f9d701010f80f77203e677b29:-1479810626,9d44ee4ffb701010d730fc060fd7f425:452673660,1544ee4f7e701010613af35776864022:1200545855,9944ee4ff87010104eff5ef9b999931e:1470833105,1144ee4fe9701010850a5636a916b81b:89235068,9544ee4f6e7010101ddd69cd3be99a17:1071196824,cabd723eca67001086b478b82342bb44:90421271,0b582106fb1300102b9c7cc99e4feb31:0,9148e5c2b913001083ab3c7a7ff2a0ff:6025700,5548e5c2c1130010b0fe920bcc7f4bfb:-915848390,1548e5c2321300104e96381833b882f8:-567701384,d148e5c211130010eb7041b9e5c375f5:-1423691141,9148e5c2ee1300109efe4904e35639f2:-709049971,5148e5c2c5130010b8d6eafa99b051ef:-1389990280,1148e5c2f4130010a191285227cd77ec:221069324,dd48e5c295130010083dadd38554b5e8:115963504,9d48e5c21c130010d826d57681c7bae5:-495418659,6ad4ef1d0ea60010e3ec696f10388533:0,a5c42b1d65a60010e7e697284534e20a:739684263,19c42b1dcfa600106207399dd3184706:-915848390,95c42b1d9aa600109d6e6c7f0b156703:-567701384,15c42b1d33a600104e0aa209ea0a2700:-1423691141,91c4e71d98a60010c19bfffd9d5360fd:-709049971,11c4e71d7ca6001065a152e9a595b9fa:-1389990280,9dc4e71d3ea60010ee213aa7a9f52ff6:221069324,1dc4e71db1a60010348f22e23d58e9f3:115963504,99c4e71da3a600109e17fd1a052884f0:-495418659,9d2015a80aa20010db4d9c3333743a6c:0,31109d6887a20010370be750c49bc4f4:399233481,b1109d68c9a200100ff82203504ef6f0:-915848390,31109d6871a2001097edf9c35379dded:-567701384,bd109d68aea200104bbfb50f2bb707e9:-1423691141,3d109d6832a20010f3371df98f3de7e6:-709049971,f1109d68dca20010722c01038c0aa6d7:-1389990280,71109d68dea2001007ce938649de51d4:221069324,fd109d6886a20010392e30393db966d0:115963504,7d109d68cca200102c240ff146bd1ccd:-495418659,388e58144aa20010f80bdce5e3979736:0,fb3bb80d659640108bd1e4d3c0837dfe:0,383bb40d9c9640100f272edc81a894cb:100543765,b83bb40df2964010e044d5df3a6c17c7:-915848390,383bb40db7964010704c6fce976cbac4:-567701384,b43bb40de796401010fd24ed9541c7c1:-1423691141,343bb40d229640109e26af0874f4d6be:-709049971,b03bb40df79640108a36ec226274a5bb:-1389990280,303bb40dd0964010c457d2806af239b8:221069324,bc3bb40d9196401088bddc7e63e7c5b4:115963504,3c3bb40d8e964010139452676900b6b1:-495418659,82f54638e01e0010b4ae4e8f7bd428b2:0,a3e58238c71e0010361615b97eed79bb:1116757907,6be58238d31e0010de49633e0b2211b7:-915848390,e7e58238011e0010d693e1974a4b9eb4:-567701384,afe58238871e0010a0caed4f9f72d4a4:-1423691141,2fe58238371e0010d8113bb8d35520a1:-709049971,abe58238751e00106be1250f94d8039e:-1389990280,2be582384c1e001037d06a6fb80e659b:221069324,a7e58238581e001044fd5bf4af638c98:115963504,27e58238611e00100da5640fd1f3b495:-495418659,bd8d6856ca310010a6e386a36c063b85:0,ad8d68567b310010e7da1a16087e7b68:2037410899</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>coen.eskens</sys_created_by>
+        <sys_created_on>2020-05-20 09:36:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>d1642a8fdb70101002ff1fc7689619aa</sys_id>
+        <sys_metadata>d1642a8fdb70101002ff1fc7689619aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_what_needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_what_needed">1d44ee4fdb70101002ff1fc76896192d</sys_update_version>
+        <sys_updated_by>coen.eskens</sys_updated_by>
+        <sys_updated_on>2020-05-20 09:36:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
